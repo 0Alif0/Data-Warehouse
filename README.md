@@ -1,1 +1,2 @@
-# Data-Warehouse
+# Simple Data Warehouse (SQL + SSIS + SSAS + Power BI)
+In here I try to understand basic of Data Warehouse Architecture and its Terminologies with Business Case Study. Try of design ETL process with Data Warehouse Implementation.Used SSIS can be used for extraction, loading, and transformation (ETL) of data by extracting data.Then migrated into SSAS Tabular Model. And To visuall it I used power BI.
